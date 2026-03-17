@@ -7,40 +7,6 @@ Guia completo de Go (Golang) em português, do zero ao avançado. Cobre fundamen
 
 ---
 
-## Sumário
-
-1. [Introdução ao Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#1-introdu%C3%A7%C3%A3o-ao-go)
-2. [Instalação do Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#2-instala%C3%A7%C3%A3o-do-go)
-3. [Estrutura de um Programa Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#3-estrutura-de-um-programa-go)
-4. [Sintaxe Básica da Linguagem](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#4-sintaxe-b%C3%A1sica-da-linguagem)
-5. [Tipos Primitivos](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#5-tipos-primitivos)
-6. [Operadores](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#6-operadores)
-7. [Controle de Fluxo](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#7-controle-de-fluxo)
-8. [Loops](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#8-loops)
-9. [Arrays](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#9-arrays)
-10. [Slices](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#10-slices)
-11. [Maps](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#11-maps)
-12. [Funções](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#12-fun%C3%A7%C3%B5es)
-13. [Estruturas (Structs)](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#13-estruturas-structs)
-14. [Interfaces](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#14-interfaces)
-15. [Ponteiros](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#15-ponteiros)
-16. [Pacotes](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#16-pacotes)
-17. [Módulos Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#17-m%C3%B3dulos-go)
-18. [Manipulação de Arquivos](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#18-manipula%C3%A7%C3%A3o-de-arquivos)
-19. [Tratamento de Erros](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#19-tratamento-de-erros)
-20. [Concorrência — Goroutines e Channels](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#20-concorr%C3%AAncia--goroutines-e-channels)
-21. [Goroutines Avançadas](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#21-goroutines-avan%C3%A7adas)
-22. [Mutex e Sincronização](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#22-mutex-e-sincroniza%C3%A7%C3%A3o)
-23. [JSON em Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#23-json-em-go)
-24. [HTTP em Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#24-http-em-go)
-25. [CLI em Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#25-cli-em-go)
-26. [Boas Práticas](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#26-boas-pr%C3%A1ticas)
-27. [Performance em Go](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#27-performance-em-go)
-28. [Estrutura de Projetos Profissionais](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#28-estrutura-de-projetos-profissionais)
-29. [Projeto Final — API REST Completa](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#29-projeto-final--api-rest-completa)
-30. [Conclusão](https://claude.ai/chat/bcba9afe-9615-4ff0-8821-32762b9184a9#30-conclus%C3%A3o)
-
----
 
 # 1. Introdução ao Go
 
